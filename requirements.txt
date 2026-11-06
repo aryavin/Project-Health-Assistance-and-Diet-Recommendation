@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 openai
+=======
+>>>>>>> 1a8cbe060e93940e4403847fadfa7e420ddddf83
 streamlit 
 python-dotenv 
 huggingface-hub 
